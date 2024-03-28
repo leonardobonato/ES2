@@ -3,4 +3,6 @@ h1 {
   text-align: center;
   text-shadow: black;
   background-color: aqua;
+  color: blue;
+  font-style: italic;
 }
