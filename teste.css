@@ -1,5 +1,8 @@
 h1 {
   font-size: large;
+  text-align: center;
+  text-shadow: black;
+  background-color: aqua;
   color: blue;
   font-style: italic;
 }
